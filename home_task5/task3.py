@@ -8,7 +8,7 @@ class Solution:
             if x in words[i]:
                 bar.append(i)
         return bar
-                
+
         
 cls = Solution()
 
